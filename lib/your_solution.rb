@@ -1,6 +1,6 @@
 # Write your solution here
 def hello 
-  print "Hello World!"
+  puts "Hello World!"
 end
 
 hello
